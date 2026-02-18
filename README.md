@@ -20,8 +20,8 @@ ainu pārslēgšanai.
 Ir iespēja nokļūt uz nākamās ainas un iziet no tās ārā.
 
 **Galvenajā ainā** ir nodrošināts:
-Poga, kas strādā kopā ar 2 **input fieldiem**
-Ir iespēja ievadīt vārdu un dzimšanas gadu. Kā rezultātā tiek atgriezts teksts "Zane ir ..gadus veca"
+Poga, kas strādā kopā ar 2 **input fieldiem**.
+Ir iespēja ievadīt vārdu un dzimšanas gadu. Kā rezultātā tiek atgriezts teksts "Zane ir ..gadus veca".
 
 **Toggle** - ieslēdz vai izslēdz apģērba grupu.
 Ir 2 apģērbu grupas. Ir apģērbs priekš ķermeņa aukšdaļas un apģērbs priekš ķermeņa apakšdaļas.
@@ -31,7 +31,7 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 **Scroll wiew** - atgriež tesktu ar aprakstiem.
 
-**Ir slaideris**
+**slaideris** -  ir.
 
 **Skaņa** - pievienota
 
@@ -39,8 +39,8 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 6.Testēts un uzlabots.
 
-7.Izveidots README.fails
+7.Izveidots README.fails.
 
-8.Veikts Git kommit
+8.Veikts Git kommit.
 
 8.Buildots.
