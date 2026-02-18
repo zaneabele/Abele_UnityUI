@@ -1,12 +1,21 @@
+1.Darbi pirms programmēšanas.
 Izveidots Unity 2D projekts.
-Sagatavoti attēli.
 Izveidots Gihub reozitorijs. 
-Izveidots UI.
-Izveidots kods.
-Savienots viss.
-Testēts.
-Buildots.
+Sagatavoti attēli.
+Sagatavoti audio faili.
 
+
+2.Izpētīts un izmēģināts UI.
+
+
+3. Izveidots kods.
+Izveidoju kodu tekstam,
+Attēliem,
+audio,
+ainu pārslēgšanai.
+
+
+4. Izveidota šāda funkcionalitāte:
 **Ir 2 ainas (scene)**. Sākuma aina un Galvenā aina.
 Ir iespēja nokļūt uz nākamās ainas un iziet no tās ārā.
 
@@ -20,7 +29,18 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 **Drop down** - iespējams pārslēgt Character (tēlu) no meitenes uz puisi.
 
-**Scroll wiew** - atgriež tesktu.
+**Scroll wiew** - atgriež tesktu ar aprakstiem.
 
 **Ir slaideris**
 
+**Skaņa** - pievienota
+
+5. Savienots viss.
+
+6. Testēts un uzlabots.
+
+7. Izveidots README.fails
+
+8. Veikts Git kommit
+
+8. Buildots.
