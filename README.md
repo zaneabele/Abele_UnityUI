@@ -33,7 +33,7 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 **slaideris** -  ir.
 
-**Skaņa** - pievienota
+**Skaņa** - pievienota.
 
 5.Savienots viss.
 
