@@ -8,14 +8,14 @@ Sagatavoti audio faili.
 2.Izpētīts un izmēģināts UI.
 
 
-3. Izveidots kods.
+3.Izveidots kods.
 Izveidoju kodu tekstam,
 Attēliem,
 audio,
 ainu pārslēgšanai.
 
 
-4. Izveidota šāda funkcionalitāte:
+4.Izveidota šāda funkcionalitāte:
 **Ir 2 ainas (scene)**. Sākuma aina un Galvenā aina.
 Ir iespēja nokļūt uz nākamās ainas un iziet no tās ārā.
 
@@ -37,10 +37,10 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 5. Savienots viss.
 
-6. Testēts un uzlabots.
+6.Testēts un uzlabots.
 
-7. Izveidots README.fails
+7.Izveidots README.fails
 
-8. Veikts Git kommit
+8.Veikts Git kommit
 
-8. Buildots.
+8.Buildots.
