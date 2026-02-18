@@ -35,7 +35,7 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 **Skaņa** - pievienota
 
-5. Savienots viss.
+5.Savienots viss.
 
 6.Testēts un uzlabots.
 
