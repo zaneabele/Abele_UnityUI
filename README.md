@@ -1,6 +1,7 @@
 1.Darbi pirms programmēšanas.
 Izveidots Unity 2D projekts.
 Izveidots Gihub reozitorijs. 
+https://github.com/zaneabele/Abele_UnityUI
 Sagatavoti attēli.
 Sagatavoti audio faili.
 
@@ -41,6 +42,6 @@ Tēlam tiek pievienoti 4 apģērba gabali.
 
 7.Izveidots README.fails.
 
-8.Veikts Git kommit.
+8.Veikts Git kommit. https://github.com/zaneabele/Abele_UnityUI
 
 8.Buildots.
